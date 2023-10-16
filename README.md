@@ -2,7 +2,7 @@
 
 
 # TriaaaaL
-## Version 1.3.0
+## LastUpdate 15-10-2023
 
 **Unoffcial LINE bot**. Using LINE private API for automate some task in LINE chat.
 
@@ -96,8 +96,8 @@ You can imput your mid and other mid into list
 ```JSON
 {
   "CreatorBack":[
-    "*Your mid",
-    "*Other mid"
+    "*Your MID",
+    "*Other MID"
   ]
 }
 ```
@@ -112,10 +112,11 @@ Owner will get more access than Creator(**TBA*)
 U CAN BUY WITH ME
 
 ## 3. Run your script
-This script running using python3
+This script running using Golang v19
 ```SH
 apt update && upgrade
 apt bash
+screen -S golang
 cd TriaaaaL
 chmod +x emal
 ./emal token
@@ -123,19 +124,12 @@ chmod +x emal
 Note: This Trial Bot Golang 30-Day From Today.
 Hope A Nice Day
 
-# Casing
-
-You can contact me if have a question or want to help this repo :)
-
-Please don't sell this script and APPRECIATE me
-
-
 # Credit
 
 ## Special Thanks:
-Allah
-Mom
-HebatLuBot
+**ALLAH**
+**MOM**
+**HebatLuBot**
 
 ## Author:
 [Emal/HebatLuBot](https://HebatLuBot.site/HebatLuBoy.html)

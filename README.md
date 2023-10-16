@@ -1,8 +1,3 @@
-[![Version 1.0.0](https://i.ibb.co/6vJvwyf/5.png "Version 1.0.0")](https://github.com/alipbudiman/CL-Assist-Ajs-V2/blob/main/README.md)
-[![LICENSE](https://i.ibb.co/5nR4p7x/6.png "LICENSE")]([https://github.com/alipbudiman/CL-Assist-Ajs-V2/blob/main/LICENSE](https://github.com/alipbudiman/CL-Assist-Ajs-V2/blob/main/README.md))
-[![Supported python versions: 3.x](https://i.ibb.co/L1k6BC2/7.png "supported python versions: 3.x")](https://www.python.org/downloads/)
-
-
 # ![logo](https://i.ibb.co/MCZB694/hbtlogo.jpg)
 
 
@@ -18,11 +13,11 @@
 
 # Features
 - Banning
-  - Auto Purge Blacklist
-  - Add Blacklist
+  - Auto Purge Fucklist/Blacklist/Gban
+  - Add Fucklist/Blacklist/Gban
   - Auot Blacklist
-  - Delete And Add Blacklist
-  - View Blacklist
+  - Delete And Add Fucklist/Blacklist/Gban
+  - View Fucklist/Blacklist/Gban
   - Other
 
 - Backup
@@ -60,7 +55,8 @@
   - View Group List
 
 - Ajs
-  - Ajs Stay / Go
+  - Bringall / Stayall
+  - Ajs Stay / Go / Gojoin
   - Ajs Backup
 
 - Basic
@@ -79,26 +75,17 @@ And Others (WIP).
 First input your token into file > token.json
 ```JSON
 {
-  "assistToken":"*Your Token"
+  "Authoken":[
+    "*INPUT_YOUR_TOKEN",
+    "*INPUT_OTHER_TOKEN"
+  ]
 }
 ```
 **Your Token is your LINE Primary token, you can get it from Sniffing your LINE account or generate from your Auth Key*
 
-You can get Primary token form Sniffing or generate it by using Authkey or Generete token Bot.
-If you want run AJS (Anti-js) or Pending bots for backup your Assist. You need to input Other token (Diffrent Another Token) into Value of key "Authoken"
-```JSON
-{
-  "Authoken":"*INPUT_YOUR_TOKEN"
-}
-```
-**Your Other Token is your LINE Primary token and Diffrent Token from LINE Primary token input into assistToken (Diffrent Account)*
-
 Please note, **you must input Token into value of Authoken** for run this bot. but you are **free to input Token into value of Authoken**.
 
-if You if you don't put the token in the value of ajsToken, then your bot will run as Single Assist.
-
-
-## 2. Add Mid Token into JSON
+## 2. Add Mid Creator into JSON
 For reconize operatior of this bot, you need input mid into file > statusalip.json
 
 mid same as id, but for server. You can get your mid with Sniffing, Using other bot or if you need help you can contact me on [LINE](https://line.me/ti/p/~fvkubitch_)
@@ -127,11 +114,14 @@ U CAN BUY WITH ME
 ## 3. Run your script
 This script running using python3
 ```SH
+apt update && upgrade
+apt bash
+cd TriaaaaL
+chmod +x emal
 ./emal token
-./emal default
 ```
-Note: Kill, Nuke, Nuke Join fiture using JS-Node. So you need install JS-node to.
-
+Note: This Trial Bot Golang 30-Day From Today.
+Hope A Nice Day
 
 # Casing
 
@@ -143,10 +133,12 @@ Please don't sell this script and APPRECIATE me
 # Credit
 
 ## Special Thanks:
-Allah and My Mom
+Allah
+Mom
+HebatLuBot
 
 ## Author:
-[Emal/HebatLuBot](https://fxgdev.site/alifbudiman.html)
+[Emal/HebatLuBot](https://HebatLuBot.site/HebatLuBoy.html)
 
 # Donation:
-https://saweria.co/HebatLuBoy
+https://saweria.co/HebatLuBoy/

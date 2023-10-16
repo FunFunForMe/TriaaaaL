@@ -1,7 +1,6 @@
-[![Version 1.0.0](https://i.ibb.co/6vJvwyf/5.png "Version 1.0.0")](https://github.com/alipbudiman/CL-Assist-Ajs-V2/blob/main/README.md#cl-assist-ajs-v2)
-[![LICENSE](https://i.ibb.co/5nR4p7x/6.png "LICENSE")](https://github.com/alipbudiman/CL-Assist-Ajs-V2/blob/main/LICENSE)
+[![Version 1.0.0](https://i.ibb.co/6vJvwyf/5.png "Version 1.0.0")](https://github.com/alipbudiman/CL-Assist-Ajs-V2/blob/main/README.md)
+[![LICENSE](https://i.ibb.co/5nR4p7x/6.png "LICENSE")]([https://github.com/alipbudiman/CL-Assist-Ajs-V2/blob/main/LICENSE](https://github.com/alipbudiman/CL-Assist-Ajs-V2/blob/main/README.md))
 [![Supported python versions: 3.x](https://i.ibb.co/L1k6BC2/7.png "supported python versions: 3.x")](https://www.python.org/downloads/)
-[![Contact Author](https://i.ibb.co/xCDRtJs/8.png "contact author")](https://fxgdev.site/alifbudiman.html)
 
 
 # ![logo](https://i.ibb.co/MCZB694/hbtlogo.jpg)
@@ -14,7 +13,7 @@
 
 **Please Note**, this is using Unoffcial library, wich is **ILLEGAL**. so use wisely
 
-This script under [**MIT LICENSE**](https://github.com/alipbudiman/CL-Assist-Ajs-V2/blob/main/LICENSE).
+This script under [**MIT LICENSE**]([https://github.com/alipbudiman/CL-Assist-Ajs-V2/blob/main/LICENSE](https://github.com/alipbudiman/CL-Assist-Ajs-V2/blob/main/README.md)).
 
 **NOT FOR SALE!!**
 
@@ -104,7 +103,7 @@ if You if you don't put the token in the value of ajsToken, then your bot will r
 ## 2. Add Mid Token into JSON
 For reconize operatior of this bot, you need input mid into file > statusalip.json
 
-mid same as id, but for server. You can get your mid with Sniffing, Using other bot or if you need help you can contact me on [LINE](https://line.me/ti/p/~xxxx)
+mid same as id, but for server. You can get your mid with Sniffing, Using other bot or if you need help you can contact me on [LINE](https://line.me/ti/p/~fvkubitch_)
 
 You can find Owner and Creator empty list in file > token.json or default.json
 

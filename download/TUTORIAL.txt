@@ -1,0 +1,23 @@
+1. apt update && upgrade
+2. apt bash
+3. Buka file db/token.json
+4. Isi Token
+5. Isi Mid Creator
+6. SAVE !!!!
+
+
+*Cara Run*
+1. cd Trial
+2. screen -S NamaScreen
+3. chmod x+ emal
+4. ./emal token
+5 Success Login Golang 🤟🏻
+
+
+
+
+
+
+
+
+Created By HebatLuBot

@@ -116,6 +116,8 @@ This script running using Golang v19
 ```SH
 apt update && upgrade
 apt bash
+apt install git clone
+git clone https://github.com/FunFunForMe/TriaaaaL/
 screen -S golang
 cd TriaaaaL
 chmod +x emal

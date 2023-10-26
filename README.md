@@ -2,7 +2,7 @@
 
 
 # TriaaaaL
-## LastUpdate 15-10-2023
+## LastUpdate 26-10-2023
 
 **Unoffcial LINE bot**. Using LINE private API for automate some task in LINE chat.
 

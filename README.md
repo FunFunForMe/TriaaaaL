@@ -1,8 +1,8 @@
 # ![logo](https://i.ibb.co/MCZB694/hbtlogo.jpg)
 
 
-# TriaaaaL
-## LastUpdate 26-10-2023
+# Trial Bot Go-Lang Unofficial LINE
+## LastUpdate 01-11-2023
 
 **Unoffcial LINE bot**. Using LINE private API for automate some task in LINE chat.
 
@@ -12,6 +12,10 @@
 
 
 # Features
+- New Update's
+  - FetchOps [FIX]
+  - AddWl/Unwl/Clearwl [New]
+  
 - Banning
   - Auto Purge Fucklist/Blacklist/Gban
   - Add Fucklist/Blacklist/Gban
@@ -23,9 +27,9 @@
 - Backup
   - Add Creator/Seller/Buyer/Owner/Master/Admin/Bot/Fuck/Blacklist/Gowner/Gadmin/Gban.
   - Delete Creator/Seller/Buyer/Owner/Master/Admin/Bot/Fuck/Blacklist/Gowner/Gadmin/Gban.
-  - Backup Creator/Seller/Buyer/Owner/Master/Admin/Bot/Fuck/Blacklist/Gowner/Gadmin/Gban.
-  - View Creator/Seller/Buyer/Owner/Master/Admin/Bot/Fuck/Blacklist/Gowner/Gadmin/Gban.
-  - Backup Creator/Seller/Buyer/Owner/Master/Admin/Bot/Gowner/Gadmin.
+  - Backup Creator/Seller/Buyer/Owner/Master/Admin/Bot/Fuck/Whitelist/Gowner/Gadmin.
+  - View Creator/Seller/Buyer/Owner/Master/Admin/Bot/Fuck/Whitelist/Blacklist/Gowner/Gadmin/Gban.
+  - Backup Creator/Seller/Buyer/Owner/Master/Admin/Bot/Whitelist/Gowner/Gadmin.
 
 - Kick
   - Kick (GO kick)
@@ -46,18 +50,18 @@
   - View List Protect
 
 - Profile
+  - Add Key
+  - Remove Key
+  - View Group List
   - Update Pict Video
   - Update Cover Video
   - Update Name
   - Update Bio
-  - Add Key
-  - Remove Key
-  - View Group List
 
 - Ajs
+  - Ajs Backup
   - Bringall / Stayall
   - Ajs Stay / Go / Gojoin
-  - Ajs Backup
 
 - Basic
   - Debug Speed
@@ -65,7 +69,7 @@
   - Out / Out All from Group
 
 - Login
-  - Random Header After Login
+  - New Random Header After Login
 
 And Others (WIP).
 

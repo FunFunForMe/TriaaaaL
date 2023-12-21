@@ -2,7 +2,7 @@
 
 
 # Trial Bot Go-Lang Unofficial LINE
-## LastUpdate 01-11-2023
+## LastUpdate 21-12-2023
 
 **Unoffcial LINE bot**. Using LINE private API for automate some task in LINE chat.
 

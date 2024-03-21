@@ -129,6 +129,7 @@ Pilih Install GO-LANG
 Tunggu sampai selesai
 $ bash autoSetup.sh
 Pilih Install BOT-GO
+Tunggu sampai selesai
 ```
 Note: This Trial Bot Golang 30-Day From Now.
 Hope A Nice Day

@@ -1,9 +1,12 @@
-1. apt update && upgrade
-2. apt bash
-3. Buka file db/token.json
-4. Isi Token
-5. Isi Mid Creator
-6. SAVE !!!!
+*CARA INSTALL BOT GOLANG*
+
+1. apt install bash
+2. apt install figlet
+3. apt install lolcat
+4. bash autoSetup.sh
+5. Pilih Install Go
+6. Silakan Tunggu sampai selesai
+
 
 
 *Cara Run*

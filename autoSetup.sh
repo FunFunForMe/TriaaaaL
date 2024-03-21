@@ -11,8 +11,8 @@ Cyan="\033[1;36m"        # Cyan
 White="\033[1;37m"       # White
 
 
-#apt install figlet
-#apt install lolcat
+apt install figlet
+apt install lolcat
 
 clear
 figlet Created By | lolcat

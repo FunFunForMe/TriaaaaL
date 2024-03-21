@@ -2,8 +2,8 @@
 
 
 # Trial Bot Go-Lang Unofficial LINE
-## LastUpdate 21-12-2023
-## Timeleft  01-01-2024
+## LastUpdate 21-03-2024
+## Timeleft  01-04-2024
 
 
 **Unoffcial LINE bot**. Using LINE private API for automate some task in LINE chat.
@@ -115,21 +115,22 @@ Owner will get more access than Creator(**TBA*)
 
 ** NEED API FOR CONVERT PRIMARY TOKEN TO SECONDARY **
 
-U CAN BUY WITH ME
+U CAN BUY FROM ME
 
-## 3. Run your script
+## 3. Install your script
 This script running using Golang v19
 ```SH
-apt update && upgrade
-apt bash
-apt install git clone
-git clone https://github.com/FunFunForMe/TriaaaaL/
-screen -S golang
-cd TriaaaaL
-chmod +x emal
-./emal token
+$ apt update && upgrade
+$ apt install bash
+$ apt install figlet
+$ apt install lolcat
+$ bash autoSetup.sh
+Pilih Install GO-LANG
+Tunggu sampai selesai
+$ bash autoSetup.sh
+Pilih Install BOT-GO
 ```
-Note: This Trial Bot Golang 30-Day From Today.
+Note: This Trial Bot Golang 30-Day From Now.
 Hope A Nice Day
 
 # Credit

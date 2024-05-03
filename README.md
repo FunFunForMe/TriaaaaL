@@ -2,8 +2,8 @@
 
 
 # Trial Bot Go-Lang Unofficial LINE
-## LastUpdate 21-03-2024
-## Timeleft  01-04-2024
+## LastUpdate 05-04-2024
+## Timeleft  25-05-2024
 
 
 **Unoffcial LINE bot**. Using LINE private API for automate some task in LINE chat.
@@ -16,7 +16,7 @@
 # Features
 - New Update's
   - ALL [FIXED]
-  - Work Until New Years!!!
+  - NEW LIBSSSSS!!!
   
 - Banning
   - Auto Purge Fucklist/Blacklist/Gban

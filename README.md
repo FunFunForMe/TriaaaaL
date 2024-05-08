@@ -2,7 +2,7 @@
 
 
 # Trial Bot Go-Lang Unofficial LINE
-## LastUpdate 05-04-2024
+## LastUpdate 08-05-2024
 ## Timeleft  25-05-2024
 
 
@@ -15,15 +15,17 @@
 
 # Features
 - New Update's
-  - ALL [FIXED]
-  - NEW LIBSSSSS!!!
+  - E2EE [NEW]
+  - NewLib [NEW]
+  - SYNC4/SYN5 [NEW]
+  - indAndAddNew [NEW]
   
 - Banning
   - Auto Purge Fucklist/Blacklist/Gban
   - Add Fucklist/Blacklist/Gban
-  - Auot Blacklist
-  - Delete And Add Fucklist/Blacklist/Gban
-  - View Fucklist/Blacklist/Gban
+  - Auto Blacklist
+  - Delete And Add Fucklist/Whitelist/Blacklist/Gban
+  - View Fucklist/Whitelist/Blacklist/Gban
   - Other
 
 - Backup
@@ -36,6 +38,7 @@
 - Kick
   - Kick (GO kick)
   - Kill (Js kick)
+  - Purge (GO kick)
   - Kickall / Cancelall / TakeOver [New]
   - Join & Kickall & Bypass
  

@@ -18,7 +18,7 @@
   - E2EE [NEW]
   - NewLib [NEW]
   - SYNC4/SYN5 [NEW]
-  - indAndAddNew [NEW]
+  - FindAndAddNew [NEW]
   
 - Banning
   - Auto Purge Fucklist/Blacklist/Gban
